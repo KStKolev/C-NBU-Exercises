@@ -1,2 +1,2 @@
 # C++ New Bulgarian University Exercises
-Exercises from NBU university.
+Solutions to fundamental mathematic algorithms NBU University.
