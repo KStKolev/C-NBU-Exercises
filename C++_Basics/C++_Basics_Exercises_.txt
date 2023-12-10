@@ -1,0 +1,11 @@
+Task 1. Write a C++ console program to output
+your three names on the screen.
+
+Task 2. Write a C++ console program to display the
+screen, in which university you study and in which program you study.
+
+Task 3. Write a C++ console program to display the
+displays all C++ language service words.
+
+Task 4. Write a C++ console program to display the
+screen, what is the meaning of the concepts lexeme, literal, command.
