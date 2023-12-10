@@ -1,2 +1,2 @@
-# C-NBU-Exercises
-Exercises from NBU university
+# C++ New Bulgarian University Exercises
+Exercises from NBU university.
