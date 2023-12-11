@@ -1,9 +1,7 @@
-Задача 1. Съставете С++ конзолна програма, чрез която да се изисква от потребителя да въведе стойности за променливи от всички вградени в езика примитивни типове данни (int, char, bool, …).
+Task 1. Write a C++ console program that prompts the user to enter values ​​for variables of all the language's built-in primitive data types (int, char, bool, ...).
 
-Задача 2. Съставете С++ конзолна програма, чрез която да се извършат и отпечатат на екрана всички стойности на математически изрази, чрез стойности на две целочислени променливи, въведени от потребителя. Използвайте +, -, *, /, %.
+Task 2. Write a C++ console program to execute and print to the screen all the values ​​of mathematical expressions given the values ​​of two integer variables entered by the user. Use +, -, *, /, %.
 
-Задача 3. Съставете С++ конзолна програма, чрез която да напишете изрази, използващи съкратените математически операции, върху променливи със стойности въведени от потребителя. След всяка промяна да се отпечатва
-стойността на променливите.
+Task 3. Write a C++ console program to write expressions using abbreviated mathematical operations on variables with values ​​entered by the user. After each change to be printed the value of the variables.
 
-Задача 4. Съставете С++ конзолна програма, чрез която да се разменят
-стойности на две променливи, чрез побитови операции.
+Task 4. Write a C++ console program to exchange them values ​​of two variables, by bitwise operations.
