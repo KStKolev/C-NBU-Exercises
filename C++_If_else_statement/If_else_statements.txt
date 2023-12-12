@@ -1,0 +1,21 @@
+Task 1. Write a C++ console program to convert numbers from
+decimal number system in Roman to the largest Roman numeral (3999).
+
+Task 2. Write a C++ console program to convert numbers from Roman
+a number (1 to 3999) in the decimal number system.
+
+Task 3. Write a C++ console program to display on the screen whether given
+a real number belongs to a programmer-defined interval with a constant start and end
+[MIN, MAX]. Use defining constants through directives.
+
+Task 4. Write a C++ console program to display each digit on the screen
+of a user-entered random integer.
+
+Task 5. To study how the rand() function works and what it is used for. Make expressions,
+including a call to this function so you can generate a pseudo integer
+a number in a user-specified range. Then complete the functionality of
+program by printing the digits of the number so generated (each on a new line) if and only if
+the number has at most 3 digits.
+
+Task 6. Investigate how the rand() function can generate random numbers. Compose
+expression by which you can generate a random real number in a specified interval.
