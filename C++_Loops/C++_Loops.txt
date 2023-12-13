@@ -1,0 +1,29 @@
+Task 1. Write a C++ console program to find the number
+of the digits of an arbitrary user-entered integer.
+
+Task 2. Write a C++ console program to display the
+screen, the sum of the digits of an arbitrary user-entered integer
+number.
+
+Task 3. Write a C++ console program to display the
+the screen a new integer containing the digits in the reverse order of random
+a user-entered integer.
+
+Task 4. Write a C++ console program to display the
+screen histogram of occurrences of digits 0 to 9 in random
+a user-entered integer.
+
+Task 5. Compile a C++ console program, through which to display on the screen equilateral triangle of symbols. The number of lines and the print symbol to be entered by the user.
+
+Task 6. Compile a C++ console program, by which to display on the screen, a rectangle of numbers. The user yes enter a number by making a check, whether a valid digit is entered. To determine the most suitable storage type of the digit entered.
+
+Task 7. To write a program that, according to set positive goals numbers a, m and n find the value of y:
+
+Task 8. To write a program that finds the greatest common divisor
+of n positive integers.
+
+Task 9. To write a program that finds all integers from
+the interval [m, n], the digits of which are different (m and n are given integers numbers, 0 < m < n).
+
+Problem 10. Write a program that finds the first n (n > 1) primes
+numbers that start with 3.
