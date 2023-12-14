@@ -1,0 +1,70 @@
+Task 1. Write an S++ program to populate a two-dimensional dynamic array
+with randomly generated integers in the interval [-12, 122]. Number of columns and count
+of rows to be entered by the user. Do not use any structure other than
+data (eg vector, list, map, ….)! Only work with two-dimensional
+dynamic array! Use a numeric data type!
+
+Task 2. Write a C++ program by which the array from task 1 to
+change so that all elements above but without the secondary diagonal are 0. No
+use another data structure (eg vector, list, map, ….)!
+Only work with a 2D dynamic array! The result should
+be in the array from problem 1 (note the phrase “the array of
+task 1 to change…”)! Use a numeric data type!
+
+Task 3. Write an S++ program by which the array from Task 1 to
+change so that all elements below the main diagonal, including it to
+are replaced by the sum of their indices, raised to a power equal to the order in which
+they find Do not use any other data structure (eg vector, list,
+map, ….)! Only work with a 2D dynamic array! The result
+must be in the array from task 1 (note the phrase "
+the array from task 1 to change…”)! Use a numeric data type!
+
+Task 4. Write a C++ program to print the array from Task 1
+in spiral order. Do not use any other data structure (eg
+vector, list, map, ….)! Only work with a 2D dynamic array!
+Use a numeric data type!
+
+Problem 5. Given a one-dimensional array of n integers (1 < n < 100). To
+write a program that finds the number of even elements with an odd sequence
+array number that belong to the interval [p, q]. All values
+to be entered by the user. Do not use any other data structure
+(eg vector, list, map, ….)! Only work with a one-dimensional array!
+Use a numeric data type!
+
+Problem 6. Given a one-dimensional array of n integers (1 < n < 100). To
+write a program that finds:
+a) the sequence number of the first positive element;
+b) the sequence number of the last positive element;
+c) the sequence number of the p-th positive element of the array.
+If such an element is not contained in the array, the sequence number to be assigned
+-1. All values ​​to be entered by the user. Do not use another
+data structure (eg vector, list, map, ….)! Work only with
+one dimensional array! Use a numeric data type!
+
+Task 7. To write a program that displays on the screen all the numbers from
+given a one-dimensional array of integers that are multiples of their indices. No
+use another data structure (eg vector, list, map, ….)!
+Only work with a one-dimensional array! Use a numeric data type!
+
+Task 8. To write a program that converts the first n elements (1 <
+n < 100) of the one-dimensional array A as follows:
+- if Ai < i, then Ai should be squared;
+- if Ai = i, the sign of Ai changes
+;
+- if Ai > i , 1 is subtracted from Ai.
+Do not use any other data structure (eg vector, list, map, ….)!
+Only work with a one-dimensional array! Use a numeric data type!
+
+Task 9. To write a program that enters n numbers (1 < n < 100) and so on
+this brings them up:
+a) in reverse order;
+b) first those in even positions and then those in odd positions;
+c) in random order (random shuffle).
+Do not use any other data structure (eg vector, list, map, ….)!
+Only work with a one-dimensional array! Use a numeric data type!
+
+Problem 10. Given a one-dimensional array of integers a0, a1, ..., an-1, (1 < n < 100).
+Write a program that compacts an array by deleting duplicates
+elements. When deleting an element, the array must resize.
+Do not use any other data structure (eg vector, list, map, ….)!
+Only work with a one-dimensional array! Use a numeric data type!
