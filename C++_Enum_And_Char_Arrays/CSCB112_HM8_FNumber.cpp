@@ -90,7 +90,6 @@ int main()
     }*/
 
     //Ex.2 
-    //Задавам константа на колоните в редовете. Стойността е повече от 1.
     /*int const numberOfRows = 10;
     char rows[numberOfRows][10] = { "Cd", "Bc", "Ab"};
     bool result = true;
@@ -137,7 +136,6 @@ int main()
     }*/
 
     //Ex. 3 
-    //елементите от номера на редицата трябва да са равни от елементите от номера на колоната.
     // lengthOfMatrix < 10
       /*  int matrix[lengthOfMatrix][lengthOfMatrix] =
         { 
@@ -186,12 +184,12 @@ int main()
 
         if (result) 
         {
-            // Използване на placeholder %s при метода printf за по-лесно принтиране
+            // Г€Г§ГЇГ®Г«Г§ГўГ Г­ГҐ Г­Г  placeholder %s ГЇГ°ГЁ Г¬ГҐГІГ®Г¤Г  printf Г§Г  ГЇГ®-Г«ГҐГ±Г­Г® ГЇГ°ГЁГ­ГІГЁГ°Г Г­ГҐ
             printf("%s is present above or on the secondary diagonal.", wordToCheck);
         }
         else 
         {
-            // Използване на placeholder %s при метода printf за по-лесно принтиране
+            // Г€Г§ГЇГ®Г«Г§ГўГ Г­ГҐ Г­Г  placeholder %s ГЇГ°ГЁ Г¬ГҐГІГ®Г¤Г  printf Г§Г  ГЇГ®-Г«ГҐГ±Г­Г® ГЇГ°ГЁГ­ГІГЁГ°Г Г­ГҐ
             printf("%s is not present above or on the secondary diagonal.", wordToCheck);
         }
     */
