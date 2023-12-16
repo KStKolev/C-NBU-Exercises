@@ -1,0 +1,69 @@
+Task 1. Compile C++ functions to work with a one-dimensional array for:
+A. Deleting an element from an array;
+B. Add an element to the end of the array;
+C. Add an element to a selected position in an array;
+D. Change the value of selected items.
+Do not use non-array data structures!
+
+Task 2. To write a C++ program to maintain a list of faculty
+number of students. Maintaining a list includes the operations: add to
+student, delete student, change faculty number, find student
+by faculty number. Use the functions from task 1 in the program. No
+use data structures other than an array!
+
+Task 3. Define a C++ function to calculate through which cars
+must be crossed to get from one car numbered n to another numbered m (n < m). The composition of wagons has the following form: LBOPKRKSKPMRKKPP, where L -
+locomotive, B - baggage car, O - general passenger car, P - tourist car, K - wagon with compartments, R - restaurant wagon. Baggage and restaurant cars do not have numbers.
+Do not use data structures other than an array!
+
+Task 4. Define a C++ function to fill a two-dimensional
+dynamic array that populates: first row from left to right, next
+row from right to left, then again from left to right, etc. Write
+program to create your function. All values ​​yes
+asked by the user! Do not use data structures,
+different from a two-dimensional dynamic array!
+
+Task 5. Write a C++ function to delete digits from a given
+character string. Write a program to implement your function.
+All values ​​to be set by the user! Do not use
+data structures other than C-character string!
+
+Task 6. Write a C++ function to replace each occurrence of a substring
+with a user-specified new string in a given string. E.g. If we have the following
+string: This is a test and the user wants is to be replaced with are, it will
+get the string Thare are a test. Write a program to run
+your function. All values ​​to be set by the user!
+Do not use data structures other than C-symbol
+string!
+
+Task 7. Write a C++ function that finds the number of equals
+characters in two user-supplied strings. Write a program that
+to become your function. All values ​​to be set by
+the user! Do not use data structures other than
+C-character string!
+
+Task 8. Write a C++ function that finds the number of distinct
+characters in two user-supplied strings. Write a program that
+to become your function. All values ​​to be set by
+the user! Do not use data structures other than
+C-character string!
+
+Task 9. Write a C++ function that splits a set of objects,
+whose weights are written in a bipartite array, so the weights of both
+groups to be as close as possible. Write a program to run
+your function. All values ​​to be set by the user!
+Do not use data structures other than an array!
+
+Task 10. Write a C++ function that accepts as a parameter
+two-dimensional array of floating-point values ​​and defines the following
+functions to work with it:
+A. Fill the array with values ​​in the interval [3.33, 333.33];
+B. Finding the elements that are in even order and equal to
+the maximum product of array elements by columns.
+C. Formation of a new matrix whose elements are formed by
+the difference between the elements between two passed as parameters
+matrices.
+D. Replace the elements below the secondary diagonal with 0.
+E. Populating the unit matrix with values.
+F. Multiplication of the matrix from condition A by the matrix from condition E.
+Write a program to implement your function. All values ​​to be set by the user! Do not use data structures other than a two-dimensional array!
