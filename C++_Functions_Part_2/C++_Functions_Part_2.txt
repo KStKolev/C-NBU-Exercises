@@ -1,0 +1,97 @@
+Task 1. Write a C++ console program to define yourself
+predicted functions that find the maximum/minimum of an array element.
+For a two-dimensional array, a function is defined that takes as a parameter
+predicate finding the maximum or minimum of a row of the matrix. If we are on
+even row, the maximum of the row should be found and printed, and if we are on
+odd row - to find and print the minimum. Don't use structures
+from data other than array ! All values ​​to be set by
+the user!
+
+Task 2. Write a C++ console program to define them
+all functions needed to solve the following problem: all
+positive elements in an array to be replaced by user-supplied ones
+a function implementing a specified formula with 3 parameters. For example: if
+we have the parameters a, b, c, it returns the result 1*a+2*b+3*c. All
+values ​​to be set by the user!
+
+Task 3. Write a C++ console program to sort
+one-dimensional array (no matter the sort method), but the function yes
+can sort, both in ascending order and in descending order based on
+user-supplied parameter (predicate). Don't use structures
+from data other than an array! All values ​​to be set by
+the user!
+
+Task 4. To define a recursive function that creates a copy of
+character string in previously allocated memory. Do not use
+data structures other than C-character string! All
+values ​​to be set by the user!
+
+Task 5. To define a recursive function that compares
+lexicographically two natural numbers. All values ​​to be set
+by the user!
+
+Task 6. To define a recursive function that transforms
+character string of digits in its corresponding natural number. No
+use data structures other than C-string!
+All values ​​to be set by the user!
+
+Task 7. To define a recursive function that replaces all
+occurrences of the symbol x in the string s with the symbol y. Do not use
+data structures other than C-character string! All
+values ​​to be set by the user!
+
+Problem 8. A grid of m x n squares (1 ≤ m, n ≤ 20) is given. In each
+square is a written number. A set of adjacent in horizontal,
+a vertical or diagonal direction of squares is called an area. Yes
+write a program that checks if there is a region of area in the grid
+(sum of elements) equal to a given number S. Do not use structures
+of data other than a 2D array! All values ​​yes
+set by the user!
+
+Problem 9. Given an n x m chessboard (1 ≤ m, n ≤ 20), in each square
+on which a letter is written. To write a program that establishes
+can a given text be read starting from a given field and moving
+only on horseback. Do not use data structures other than
+two dimensional array! All values ​​to be set by the user!
+
+Task 10. To define a function char* deleteFirst(char* pch, const
+char* findWhat) which returns a pointer to the character string pointed to by pch,
+in which the first occurrence of the string findWhat is deleted. Do not use
+data structures other than C-character string! All
+values ​​to be set by the user!
+
+Task 11. To define a function char* deleteLast(char* pch, const
+char* findWhat) which returns a pointer to the character string pointed to by pch,
+in which the last occurrence of the string findWhat is deleted. No
+use data structures other than C-string!
+All values ​​to be set by the user!
+
+Task 12. To define a function char* deleteAll(char* pch, const
+char* findWhat) which returns a pointer to the character string pointed to by pch,
+in which every occurrence of the string findWhat is deleted. Do not use
+data structures other than C-character string! All
+values ​​to be set by the user!
+
+Task 13. To define a function char* common(char* s1, char* s2),
+which returns the common prefix (suffix) of the character strings s1 and s2. No
+use data structures other than C-string!
+All values ​​to be set by the user!
+
+Task 14. To write a function int countChar(char* s1, char* s2),
+which returns the number of identical characters in the character strings s1 and s2. No
+use data structures other than C-string!
+All values ​​to be set by the user!
+
+Task 15. To write a program that, for a given number series ao, a1,
+..., a„-1 (1 ≤ n ≤ 20) find the length of its longest nondecreasing
+array ai1; аi2, ..., ajk (аi1 ≤ аi2 ≤ ... ≤ ajk), where i1 ≤ i2 ≤ ... ≤ ik. No
+use data structures other than an array! All
+values ​​​​to be set by the user!
+
+Problem 16. Given a set of n cities and for every two of them is
+determined whether they are connected by a road or not. To write a program that
+finds and outputs the maximum subset of cities from the given one
+multitude, so that every two different cities belonging to
+the subset not associated with a path. Do not use structures from
+data other than a 2D array! All values ​​yes
+set by the user!
