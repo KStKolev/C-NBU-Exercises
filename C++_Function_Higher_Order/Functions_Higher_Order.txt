@@ -1,0 +1,21 @@
+Problem 1. Using the higher-order function prod, find:
+a) xn, where x is a real number and n is a natural number.
+b) n!, where n is a given natural number.
+All values ​​to be set by the user!
+
+Problem 2. Using the higher-order functions sum and prod,
+find:
+a) S = x − x3/3! + x5/5! − x7/7! + ⋯ + −1 ^ n (x ^ 2n+1 / 2n+1!).
+b) S = 1 − x2/2! + x4/4! − x6/6! + ⋯ + −1 ^ n (x^2𝑛/ 2n!).
+Values ​​for x and n to be set by the user!
+
+Problem 3. The natural numbers n, m and a are given. By being used
+higher-order functions to evaluate the value of the expression
+𝑦 = n^ E 𝑖𝑖=1 * m^П j=1 -> a+j/i+j
+The values ​​for n, m and a are set by the user!
+
+Task 4. To define a higher-order function that implements the whole
+one-argument function f over the elements with even sequence number of any diagonal parallel to the main diagonal of an integer
+square matrix and the entire one-argument function g over the elements c odd consecutive number on each diagonal parallel to the main
+diagonal of the square matrix. Crawl to start from element
+from the lower left corner, which is assumed to be sequence number 0. No use data structures other than a two-dimensional array (square matrix)! All values ​​to be set by the user!
