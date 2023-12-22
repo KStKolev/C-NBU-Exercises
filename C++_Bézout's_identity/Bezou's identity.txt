@@ -1,0 +1,7 @@
+Write a C++ program that solves an equation of the form a*x+b*y=0 (mod c), where a, b, c are integers in the interval [1, 100] entered by the user. The solution of the problem should involve using Bezou's identity s * a + t * b = (a, b):
+
+x = s * (c / (a, b)), y = t * (c / (a, b)), where by (a, b) we denote the NOD of a and b.
+
+The equation has no solution when the OD of a and b does not divide c.
+
+The output of the program should be a printout of the variables x and y, which are the solution to the equation. If the equation has no solution, print "No solution!". If the numbers a, b, or c are not in the interval [1, 100], print "Invalid input data!" and the program has completed its execution.
